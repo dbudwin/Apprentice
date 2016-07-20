@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "AddFraction",
+      "slots": [
+        {
+          "name": "FirstNumberNumerator",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "FirstNumberDenominator",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "SecondNumberNumerator",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "SecondNumberDenominator",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    }
+  ]
+}

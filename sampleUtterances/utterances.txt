@@ -1,0 +1,10 @@
+AddFraction what is {FirstNumberNumerator} over {FirstNumberDenominator} plus {SecondNumberNumerator} over {SecondNumberDenominator}
+AddFraction what is {FirstNumberNumerator} {FirstNumberDenominator} plus {SecondNumberNumerator} {SecondNumberDenominator}
+AddFraction what is the sum of {FirstNumberNumerator} over {FirstNumberDenominator} plus {SecondNumberNumerator} over {SecondNumberDenominator}
+AddFraction what is the sum of {FirstNumberNumerator} {FirstNumberDenominator} plus {SecondNumberNumerator} {SecondNumberDenominator}
+AddFraction what is the sum of {FirstNumberNumerator} over {FirstNumberDenominator} and {SecondNumberNumerator} over {SecondNumberDenominator}
+AddFraction what is the sum of {FirstNumberNumerator} {FirstNumberDenominator} and {SecondNumberNumerator} {SecondNumberDenominator}
+AddFraction what is the sum of {FirstNumberNumerator} over {FirstNumberDenominator} plus {SecondNumberNumerator} over {SecondNumberDenominator} is
+AddFraction what is the sum of {FirstNumberNumerator} {FirstNumberDenominator} plus {SecondNumberNumerator} {SecondNumberDenominator} is
+AddFraction what is the sum of {FirstNumberNumerator} over {FirstNumberDenominator} and {SecondNumberNumerator} over {SecondNumberDenominator} is
+AddFraction what is the sum of {FirstNumberNumerator} {FirstNumberDenominator} and {SecondNumberNumerator} {SecondNumberDenominator} is
