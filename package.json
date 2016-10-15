@@ -1,0 +1,26 @@
+{
+  "name": "apprentice",
+  "version": "1.0.0",
+  "description": "Amazon Echo skill for handling fractions",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jasmine-node tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbudwin/Apprentice.git"
+  },
+  "author": "Drew Budwin",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dbudwin/Apprentice/issues"
+  },
+  "homepage": "https://github.com/dbudwin/Apprentice#readme",
+  "devDependencies": {
+    "htmlparser2": "^3.9.1",
+    "jasmine-node": "^1.14.5"
+  }
+}
